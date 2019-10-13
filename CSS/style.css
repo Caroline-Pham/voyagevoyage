@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css?family=Crete+Round|Indie+Flower|Roboto|Mansalva|Schoolbell:400,700&display=swap");
+@import url("Components/container.css");
+@import url("Components/avatar.css");
+@import url("Components/button.css");
+@import url("Components/banner.css");
+@import url("Components/card.css");
+
+body {
+	font-family: roboto;
+	font-size: 18px;
+	margin: 0px;
+}
+
+h1, h2{
+	font-weight: bold;
+	font-size: 20px;	
+
+}
+
+h3{
+	font-family: roboto;
+	font-size: 40px;
+	font-weight: lighter;
+	margin: 0 auto;
+}
+
+h4{
+	font-family: mansalva;
+	font-size: 40px;
+	font-weight: lighter;
+}
+
+a{
+	text-decoration: none;
+}
+
+#background{
+	size: 1000px;
+}
+
